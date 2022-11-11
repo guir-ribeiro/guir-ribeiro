@@ -11,7 +11,7 @@
   <img align="center" alt="Guir-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Guir-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guir-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guir-jQuery" height="50" width="50" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg](https://icons-for-free.com/iconfiles/png/512/jquery+icon-1320185152994214115.png)">
+  <img align="center" alt="Guir-jQuery" height="50" width="50" src="https://icons-for-free.com/iconfiles/png/512/jquery+icon-1320185152994214115.png">
 </div>
 
   ##
