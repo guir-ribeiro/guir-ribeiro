@@ -13,7 +13,7 @@
   <img align="center" alt="Guir-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guir-reactNative" height="50" width="80" src="https://www.datocms-assets.com/45470/1631026680-logo-react-native.png?fm=webp">
   <img align="center" alt="Guir-jQuery" height="50" width="50" src="https://icons-for-free.com/iconfiles/png/512/jquery+icon-1320185152994214115.png">
-  <img align="center" alt="Guir-Firebase" height="50" width="50" src="https://icons-for-free.com/iconfiles/png/512/svg+developer+firebase+google+programming+icon-1320183319887802192.png">
+  <img align="center" alt="Guir-Firebase" height="50" width="50" src="https://icons-for-free.com/iconfiles/png/256/vscode+icons+type+firebase-1324451294088792825.png">
 </div>
 
   ##
